@@ -29,7 +29,7 @@ This Python script monitors changes in the clipboard and removes tracking links 
 - `fbclid`: Facebook click identifier.
 - `gclid`: Google click identifier.
 - `msclkid`: Microsoft click identifier.
-- Amazon tracking parameter: `ufe=app_do%3Aamzn1.fos.[random_string]`.# URLCleaner
+- Amazon tracking parameter: `ufe=app_do%3Aamzn1.fos.[random_string]`.
 
 ## Notes
 
